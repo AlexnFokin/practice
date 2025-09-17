@@ -1,0 +1,11 @@
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/tasks.json
+!.vscode/settings.json
+
+.vscode/ipch
+
+.history
+
+node_modules
